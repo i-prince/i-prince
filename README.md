@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Full-stack Web Development (The Odin Project)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/i-prince](https://github.com/i-prince)
+- 👨‍💻 All of my projects are available at [https://github.com/i-prince?tab=repositories](https://github.com/i-prince?tab=repositories)
 
 - 💬 Ask me about **Html, CSS, JavaScript**
 
