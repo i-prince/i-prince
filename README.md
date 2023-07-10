@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/mola_tonny" target="blank"><img src="https://img.shields.io/twitter/follow/mola_tonny?logo=twitter&style=for-the-badge" alt="mola_tonny" /></a> </p>
 
-- 🌱 I’m currently learning **Full-stack Web Development (The Odin Project, FreeCodeCamp, Moriga School)**
+- 🌱 I’m currently learning **Full-stack Web Development (The Odin Project, FreeCodeCamp, Moringa School)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/i-prince?tab=repositories](https://github.com/i-prince?tab=repositories)
 
