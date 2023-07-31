@@ -1,6 +1,6 @@
 ![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm Brother Tonny Mola</h1>
-<h3 align="center">A FullStack Web Developer From Kenya</h3>
+<h3 align="center">A Software Engineer From Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-prince&label=Profile%20views&color=0e75b6&style=flat" alt="i-prince" /> </p>
 
