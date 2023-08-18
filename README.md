@@ -6,15 +6,15 @@
 
 - 🌱 I’m currently learning **Full-stack Web Development (Moringa School))**
 
-- 👨‍💻 All of my projects are available at [https://github.com/i-prince?tab=repositories](https://github.com/i-prince?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/i-prince?tab=repositories]
 
-- 📝 I regularly write articles on [https://molatonny.hashnode.dev/ and https://dev.to/dashboard](https://molatonny.hashnode.dev/ and https://dev.to/dashboard)
+- 📝 I regularly write articles on [https://molatonny.hashnode.dev/ and https://dev.to/mola_tonny]
 
 - 💬 Ask me about **Bootstrap, JavaScript, React, Python, Flask**
 
 - 📫 How to reach me **molatonny@gmail.com**
 
-- ⚡ Fun fact **I love cycling|Proud Chelsea FC fan**
+- ⚡ Fun fact **I love cycling | Proud Chelsea FC fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
