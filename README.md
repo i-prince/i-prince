@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-prince&label=Profile%20views&color=0e75b6&style=flat" alt="i-prince" /> </p>
 
-- 🌱 I’m currently learning **Full-stack Web Development (Moringa School))**
+- 🌱 I’m currently learning **Full-stack Web Development (Moringa School)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/i-prince?tab=repositories]
 
