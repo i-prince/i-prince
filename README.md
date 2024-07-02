@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*vhoE-Yw2HgrlScZmR_L1zA.gif)
 <h1 align="center">Hi 👋, I'm Mola Tonny</h1>
-<h3 align="center">ICT Administrator | Web Designer | Linux Enthusiast</h3>
+<h3 align="center">ICT Administrator | Front-End Engineer | Linux Enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-prince&label=Profile%20views&color=0e75b6&style=flat" alt="i-prince" /> </p>
 🌱 I’m currently learning Full-stack Web Development
 
