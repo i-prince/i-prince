@@ -4,9 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-prince&label=Profile%20views&color=0e75b6&style=flat" alt="i-prince" /> </p>
 🌱 I’m currently learning Full-stack Web Development
 
-👨‍💻 All of my projects are available at: https://github.com/i-prince?tab=repositories
+👨‍💻 All of my projects are available at: [GitHub repositories
+](https://github.com/i-prince?tab=repositories)
 
-📝 I regularly write articles on: [https://molatonny.hashnode.dev/ and https://dev.to/mola_tonny]
+📝 I regularly write articles on: [Hashnode](https://molatonny.hashnode.dev/) and [Dev.to](https://dev.to/mola_tonny)
 
 💬 Ask me about: **HTML, CSS, Bootstrap, Figma, React, Linux (Ubuntu Desktop)**
 
